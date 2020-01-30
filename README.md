@@ -1,2 +1,5 @@
 # CVDS  Laboratorio N°2
-rgfishfdspojfb
+
+Guillermo Esteban Bernal Bonilla
+2155042
+Laboratorio finalizado.
